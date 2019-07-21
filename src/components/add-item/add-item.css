@@ -10,4 +10,5 @@
     padding: 8px;
     font-size: 15px;
     border-radius: 10px;
+    white-space:nowrap;
 }
